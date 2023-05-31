@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    csv (3.2.6)
+    dotenv (2.8.1)
+    pg (1.5.3)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  csv
+  dotenv
+  pg
+
+BUNDLED WITH
+   2.4.8
